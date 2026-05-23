@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Connect via SSH from laptop to the server after being denied",
+  "goal_categories": {
+    "debugging_ssh_connection": 1
+  },
+  "outcome": "mostly_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "quick_question",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "good_debugging",
+  "brief_summary": "User couldn't SSH as root; Claude diagnosed that root login was disabled and advised connecting as the rasmus user instead.",
+  "session_id": "a9d06c24-9dfc-4524-8474-f5448823b152"
+}

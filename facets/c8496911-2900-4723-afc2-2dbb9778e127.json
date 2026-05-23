@@ -1,0 +1,21 @@
+{
+  "underlying_goal": "Install and configure useful MCP servers on the Hetzner Ubuntu server to enhance Claude's capabilities based on the user's actual usage patterns",
+  "goal_categories": {
+    "mcp_recommendations": 2,
+    "mcp_installation": 2
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 2,
+    "satisfied": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {
+    "wrong_approach": 2
+  },
+  "friction_detail": "Claude initially tried docker/mcp-toolkit (not public, requires Docker Desktop) and edited settings.json directly before discovering claude mcp add was the correct method.",
+  "primary_success": "proactive_help",
+  "brief_summary": "User asked for MCP recommendations and installation; Claude successfully installed and connected four MCPs (docker, homeassistant, github, context7) after working through several configuration obstacles.",
+  "session_id": "c8496911-2900-4723-afc2-2dbb9778e127"
+}

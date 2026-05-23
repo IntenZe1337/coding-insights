@@ -1,0 +1,20 @@
+{
+  "underlying_goal": "Find and install an official Claude Code plugin for configuring/optimizing Claude usage",
+  "goal_categories": {
+    "plugin_search": 2,
+    "plugin_installation": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 2
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {
+    "misunderstood_request": 1
+  },
+  "friction_detail": "Claude initially failed to find the official claude-code-setup plugin and suggested an unofficial alternative until the user named it directly.",
+  "primary_success": "fast_accurate_search",
+  "brief_summary": "User wanted to find and install an official Claude configuration plugin; after an initial miss, Claude located claude-code-setup and successfully installed it.",
+  "session_id": "76827a74-c77a-41ab-9f30-234773d1d24a"
+}

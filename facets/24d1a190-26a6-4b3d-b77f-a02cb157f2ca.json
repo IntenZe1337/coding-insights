@@ -1,0 +1,18 @@
+{
+  "underlying_goal": "Install and configure OpenAI Codex CLI on an SSH server",
+  "goal_categories": {
+    "tool_installation": 1,
+    "configuration_help": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 2
+  },
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "good_explanations",
+  "brief_summary": "User wanted to install Codex CLI on their SSH server; installation succeeded but configuration was blocked because they only have a ChatGPT subscription, not an API key.",
+  "session_id": "24d1a190-26a6-4b3d-b77f-a02cb157f2ca"
+}

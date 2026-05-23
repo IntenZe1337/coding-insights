@@ -1,0 +1,19 @@
+{
+  "underlying_goal": "Learn about Claude Code CLI customization options and migrate a global CLAUDE.md from another machine to the server",
+  "goal_categories": {
+    "learn_claude_code_features": 4,
+    "file_transfer_help": 1,
+    "configuration_adaptation": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 3
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "good_explanations",
+  "brief_summary": "User asked about Claude Code features (fast mode, skills, hooks, CLAUDE.md vs settings.json) and then transferred and adapted a global CLAUDE.md to the server — all tasks completed successfully.",
+  "session_id": "3b96125f-29f0-4431-bde5-7a37c42b41cc"
+}

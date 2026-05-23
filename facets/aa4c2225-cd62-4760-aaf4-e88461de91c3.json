@@ -1,0 +1,22 @@
+{
+  "underlying_goal": "List the scripts the user has in their GitHub repositories",
+  "goal_categories": {
+    "github_repo_exploration": 1,
+    "tool_installation_help": 1
+  },
+  "outcome": "mostly_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 4,
+    "neutral": 2
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "single_task",
+  "friction_counts": {
+    "environment_setup_issues": 2,
+    "tool_unavailable": 1
+  },
+  "friction_detail": "gh CLI was not installed and sudo/auth required interactive terminal, causing multiple back-and-forth steps before Claude could access the repos.",
+  "primary_success": "proactive_help",
+  "brief_summary": "User wanted to list scripts in their GitHub repos; after installing and authenticating gh CLI together, Claude successfully retrieved and described the scripts.",
+  "session_id": "aa4c2225-cd62-4760-aaf4-e88461de91c3"
+}

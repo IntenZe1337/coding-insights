@@ -1,0 +1,20 @@
+{
+  "underlying_goal": "Enable high effort mode in Claude Code and change the server timezone to Swedish",
+  "goal_categories": {
+    "configure_claude_code": 1,
+    "system_configuration": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "multi_task",
+  "friction_counts": {
+    "wrong_approach": 1
+  },
+  "friction_detail": "Claude attempted to run sudo timedatectl itself instead of immediately instructing the user to run it in their own terminal, causing back-and-forth confusion",
+  "primary_success": "correct_code_edits",
+  "brief_summary": "User wanted to enable high effort mode (done via settings.json) and change timezone to Europe/Stockholm (had to run sudo themselves after some confusion)",
+  "session_id": "2f189da0-7c64-4d55-87a9-8ee1993ae6c6"
+}

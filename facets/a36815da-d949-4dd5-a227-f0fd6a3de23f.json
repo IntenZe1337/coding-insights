@@ -1,0 +1,17 @@
+{
+  "underlying_goal": "Stop the workspace trust prompt from appearing every time Claude Code starts in /home/rasmus",
+  "goal_categories": {
+    "configuration_change": 1
+  },
+  "outcome": "unclear_from_transcript",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "proactive_help",
+  "brief_summary": "User wanted to disable the recurring workspace trust prompt for /home/rasmus; Claude began investigating settings files but session ended before resolution was visible.",
+  "session_id": "a36815da-d949-4dd5-a227-f0fd6a3de23f"
+}

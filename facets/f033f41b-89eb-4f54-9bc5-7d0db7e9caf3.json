@@ -1,0 +1,19 @@
+{
+  "underlying_goal": "Disable X11 forwarding in SSH config using sudo from a non-interactive shell",
+  "goal_categories": {
+    "system_administration_help": 1
+  },
+  "outcome": "partially_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "moderately_helpful",
+  "session_type": "quick_question",
+  "friction_counts": {
+    "environment_limitation": 1
+  },
+  "friction_detail": "Sudo required a terminal for password input which the bash tool couldn't provide, preventing command execution.",
+  "primary_success": "good_explanations",
+  "brief_summary": "User wanted commands to disable X11 forwarding via sudo; Claude provided correct commands and explained why the concatenated version failed, but execution was blocked by sudo's password requirement.",
+  "session_id": "f033f41b-89eb-4f54-9bc5-7d0db7e9caf3"
+}

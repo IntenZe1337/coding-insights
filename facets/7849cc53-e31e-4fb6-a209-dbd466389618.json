@@ -1,0 +1,19 @@
+{
+  "underlying_goal": "Have Claude recreate a script from a Claude.ai artifact/share link",
+  "goal_categories": {
+    "recreate_external_script": 1
+  },
+  "outcome": "not_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "slightly_helpful",
+  "session_type": "single_task",
+  "friction_counts": {
+    "tool_limitation": 2
+  },
+  "friction_detail": "Claude could not fetch private Claude.ai artifact/share links (403) and cannot receive PDF files from iOS, blocking the task.",
+  "primary_success": "none",
+  "brief_summary": "User wanted Claude to recreate a script from a Claude.ai link, but Claude could not access the links or receive the PDF, so the task was not completed.",
+  "session_id": "7849cc53-e31e-4fb6-a209-dbd466389618"
+}

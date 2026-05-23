@@ -1,0 +1,18 @@
+{
+  "underlying_goal": "Push CLAUDE.md file to a specific GitHub repository (LLM instruction files)",
+  "goal_categories": {
+    "git_operations": 1,
+    "file_deployment": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 1
+  },
+  "claude_helpfulness": "very_helpful",
+  "session_type": "single_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "multi_file_changes",
+  "brief_summary": "User asked to push CLAUDE.md to their GitHub repo; Claude cloned the repo, added the file, and pushed successfully.",
+  "session_id": "f7ba8713-266c-4be9-b1db-1e5ad43bb308"
+}

@@ -1,0 +1,24 @@
+{
+  "underlying_goal": "Diagnose a CPU spike/crash incident on Hetzner VPS, fix the root cause, and document/propagate the lessons learned across affected services and repos",
+  "goal_categories": {
+    "server_health_diagnosis": 1,
+    "create_github_repo_and_document_lesson": 1,
+    "scope_clarification": 1,
+    "merge_changes_to_repos": 1,
+    "explain_swap_solution": 1,
+    "explain_containerization_option": 1,
+    "implement_resource_limits": 1,
+    "update_lessons_learned_repo": 1
+  },
+  "outcome": "fully_achieved",
+  "user_satisfaction_counts": {
+    "likely_satisfied": 7
+  },
+  "claude_helpfulness": "essential",
+  "session_type": "multi_task",
+  "friction_counts": {},
+  "friction_detail": "",
+  "primary_success": "good_debugging",
+  "brief_summary": "User wanted to diagnose a Hetzner VPS crash incident and prevent recurrence; Claude identified an OOM crash-loop (not Hetzner throttling), implemented systemd StartLimitBurst and MemoryMax/CPUQuota safeguards, propagated changes to relevant repos, and documented the lesson in a new GitHub repo.",
+  "session_id": "4589a4b5-4070-400b-92e8-6d5a4353de88"
+}
