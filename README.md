@@ -1,5 +1,8 @@
 # coding-insights
 
+> **Senaste version:** Ej taggad än.
+> Versionshistorik: [CHANGELOG.md](CHANGELOG.md)
+
 Claude Code usage insights reports.
 
 ## Reports
